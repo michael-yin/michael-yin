@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋,I'm Michael Yin</h1>
-<h3 align="center">Full Stack developer</h3>
+
+## My Open Source Projects
+
+* [python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate)
+* [django-tailwind-alpine-htmx](https://github.com/AccordBox/django-tailwind-alpine-htmx)
+* [wagtail-bootstrap-blog](https://github.com/AccordBox/wagtail-bootstrap-blog)
+* [wagtail-react-blog](https://github.com/AccordBox/wagtail-react-blog)
 
 ## My eBook
+
+### Django
+
+* [The Definitive Guide to Hotwire and Django](https://leanpub.com/hotwire-django)
 
 ### Celery
 
