@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋,I'm Michael Yin</h1>
 
+I am in the process of migrating the development stacks from Ruby on Rails to Django in order to transform Django into "yet another one-person framework".
+
 ## My Open Source Projects
 
-* [python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate)
-* [django-tailwind-alpine-htmx](https://github.com/AccordBox/django-tailwind-alpine-htmx)
-* [wagtail-bootstrap-blog](https://github.com/AccordBox/wagtail-bootstrap-blog)
-* [wagtail-react-blog](https://github.com/AccordBox/wagtail-react-blog)
+* [python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate): Brings modern frontend tooling to Django.
+* [django-turbo-helper](https://github.com/rails-inspire-django/django-turbo-helper): Provides helper functions for seamless integration of Turbo in Django.
+* [django-actioncable](https://github.com/rails-inspire-django/django-actioncable): Brings support for Rails ActionCable to Django.
+* [django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent): Offers a server-side component solution for Django.
+* [django-lookbook](https://github.com/rails-inspire-django/django-lookbook): Provides a component library solution for Django.
 
 ## My eBook
 
