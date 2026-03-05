@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋,I'm Michael Yin</h1>
+<h1 align="center">Hi 👋, I'm Michael Yin</h1>
 
-I am a developer who loves philosophy of Ruby on Rails, in the past years I have beenmigrating the development stacks from Ruby on Rails to Django in order to transform Django into "yet another one-person framework".
+I am a developer who loves the philosophy of Ruby on Rails. In the past few years, I have been porting techs stack from Ruby on Rails to Django in order to transform Django into "yet another one-person framework".
 
-I am also a indie hacker who loves building projects in spare time and learn new stuff.
+I am also an indie hacker who loves building projects in my spare time and learning new stuff.
 
 ## My Side Projects
 
