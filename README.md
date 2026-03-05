@@ -8,7 +8,7 @@ I am also an indie hacker who loves building projects in my spare time and learn
 
 * [Saas Hammer](https://saashammer.com/): A production-ready Django SaaS boilerplate that accelerates development with a choice of Hotwire or React frontends.
 * [Indie Makers Hub](https://indiemakershub.com/): A curated directory of innovative products and essential tools designed to help indie hackers build and launch successful side projects.
-* [Learn Dir](https://leandir.com/): An AI-powered Next.js template for building SEO-optimized, static directory sites with zero server costs and no database setup.
+* [Lean Dir](https://leandir.com/): An AI-powered Next.js template for building SEO-optimized, static directory sites with zero server costs and no database setup.
 
 ## My Open Source Projects
 
