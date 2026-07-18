@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael Yin</h1>
 
-I am a developer who loves the philosophy of Ruby on Rails. In the past few years, I have been porting techs stack from Ruby on Rails to Django in order to transform Django into "yet another one-person framework".
-
-I am also an indie hacker who loves building projects in my spare time and learning new stuff.
+I'm an indie hacker and developer building with Django, Python, and React.
 
 ## My Side Projects
 
 * [Saas Hammer](https://saashammer.com/): A production-ready Django SaaS boilerplate that accelerates development with a choice of Hotwire or React frontends.
 * [Indie Makers Hub](https://indiemakershub.com/): A curated directory of innovative products and essential tools designed to help indie hackers build and launch successful side projects.
 * [Lean Dir](https://leandir.com/): An AI-powered Next.js template for building SEO-optimized, static directory sites with zero server costs and no database setup.
+* [Intent Loom](https://intentloom.com/): An AI-powered Reddit lead discovery tool that helps founders find buying intent and craft relevant replies.
 
 ## My Open Source Projects
 
