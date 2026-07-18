@@ -4,10 +4,10 @@ I'm an indie hacker and developer building with Django, Python, and React.
 
 ## My Side Projects
 
+* [Intent Loom](https://intentloom.com/): An AI-powered Reddit lead discovery tool that helps founders find buying intent and craft relevant replies.
 * [Saas Hammer](https://saashammer.com/): A production-ready Django SaaS boilerplate that accelerates development with a choice of Hotwire or React frontends.
 * [Indie Makers Hub](https://indiemakershub.com/): A curated directory of innovative products and essential tools designed to help indie hackers build and launch successful side projects.
 * [Lean Dir](https://leandir.com/): An AI-powered Next.js template for building SEO-optimized, static directory sites with zero server costs and no database setup.
-* [Intent Loom](https://intentloom.com/): An AI-powered Reddit lead discovery tool that helps founders find buying intent and craft relevant replies.
 
 ## My Open Source Projects
 
